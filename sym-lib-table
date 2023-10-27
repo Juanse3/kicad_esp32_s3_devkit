@@ -3,4 +3,5 @@
   (lib (name "3-1879460-6")(type "KiCad")(uri "C:/Users/Juanse/Documents/kicad_projects/resources/Custom_lib_symbol/3-1879460-6.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-WROOM-1-N8R8")(type "KiCad")(uri "C:/Users/Juanse/Documents/kicad_projects/resources/Custom_lib_symbol/ESP32-S3-WROOM-1-N8R8.kicad_sym")(options "")(descr ""))
   (lib (name "W5500")(type "KiCad")(uri "C:/Users/Juanse/Documents/kicad_projects/resources/Custom_lib_symbol/W5500.kicad_sym")(options "")(descr ""))
+  (lib (name "custom_lib")(type "KiCad")(uri "${KIPRJMOD}/custom_library/Custom_lib_symbol/CONUFL001-SMD.kicad_sym")(options "")(descr ""))
 )

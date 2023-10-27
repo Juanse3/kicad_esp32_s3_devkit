@@ -1,0 +1,3 @@
+[submodule "custom_library"]
+	path = custom_library
+	url = git@github.com-personal-git:Juanse3/kicad_library.git
