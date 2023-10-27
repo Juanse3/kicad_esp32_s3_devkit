@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom_lib_footprint")(type "KiCad")(uri "C:/Users/Juanse/Documents/kicad_projects/resources/Custom_lib_footprint")(options "")(descr ""))
+)
